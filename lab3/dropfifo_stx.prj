@@ -1,0 +1,5 @@
+verilog isim_temp "SDPM9B.v"
+verilog isim_temp "reg9B.vf"
+verilog isim_temp "dropfifo.vf"
+verilog isim_temp "dropfifo.v"
+verilog isim_temp "C:/Xilinx/10.1/ISE/verilog/src/glbl.v"

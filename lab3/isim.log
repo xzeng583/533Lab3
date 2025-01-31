@@ -1,0 +1,58 @@
+Command line:
+   ./dropfifo_isim_beh.exe
+     -intstyle  ise
+     -ipchost  localhost
+     -ipcport  1040
+
+Thu Jan 30 18:25:11 2025
+
+Total Line Count : 1731
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 144.691 Meg
+
+ Total Signals          : 1203
+ Total Nets             : 838
+ Total Signal Drivers   : 448
+ Total Blocks           : 231
+ Total Primitive Blocks : 204
+ Total Processes        : 911
+ Total Traceable Variables  : 416
+ Total Scalar Nets and Variables : 43793
+ntrace select -o on -n /dropfifo/clk 
+ntrace select -o on -n /dropfifo/drop_pkt 
+ntrace select -o on -n /dropfifo/fiforead 
+ntrace select -o on -n /dropfifo/fifowrite 
+ntrace select -o on -n /dropfifo/firstword 
+ntrace select -o on -n /dropfifo/in_fifo 
+ntrace select -o on -n /dropfifo/lastword 
+ntrace select -o on -n /dropfifo/rst 
+ntrace select -o on -n /dropfifo/out_fifo 
+ntrace select -o on -n /dropfifo/radd 
+ntrace select -o on -n /dropfifo/wadd 
+ntrace select -o on -n /dropfifo/XLXN_7 
+ntrace select -o on -n /dropfifo/XLXN_8 
+ntrace select -o on -n /dropfifo/XLXN_11 
+ntrace select -o on -n /dropfifo/XLXN_12 
+ntrace select -o on -n /dropfifo/XLXN_13 
+ntrace select -o on -n /dropfifo/XLXN_16 
+ntrace select -o on -n /dropfifo/XLXN_24 
+ntrace select -o on -n /dropfifo/XLXN_25 
+ntrace select -o on -n /dropfifo/XLXN_26 
+ntrace select -o on -n /dropfifo/XLXN_32 
+ntrace select -o on -n /dropfifo/XLXN_34 
+ntrace select -o on -n /dropfifo/XLXN_40 
+ntrace select -o on -n /dropfifo/radd_DUMMY 
+ntrace select -o on -n /dropfifo/wadd_DUMMY 
+ntrace start 
+isimrun 1000 ns 
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 154.141 Meg
+
+Thu Jan 30 18:25:20 2025
+

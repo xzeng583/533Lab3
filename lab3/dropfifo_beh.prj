@@ -1,0 +1,5 @@
+verilog work "SDPM9B.v"
+verilog work "reg9B.vf"
+verilog work "dropfifo.vf"
+verilog work "dropfifo.v"
+verilog work "C:/Xilinx/10.1/ISE/verilog/src/glbl.v"

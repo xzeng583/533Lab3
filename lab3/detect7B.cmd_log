@@ -1,0 +1,14 @@
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family aspartan3   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/detect7B.sch" detect7B.vf

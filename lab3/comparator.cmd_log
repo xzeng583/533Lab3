@@ -1,0 +1,8 @@
+sch2verilog -intstyle ise -family aspartan2e   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family aspartan2e   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family aspartan2e   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family aspartan3   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/comparator.sch" comparator.vf

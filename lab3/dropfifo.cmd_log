@@ -1,0 +1,10 @@
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2p   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family aspartan3   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
+sch2verilog -intstyle ise -family virtex2   -w "C:/Documents and Settings/student/isetest/isim/lab3/dropfifo.sch" dropfifo.vf
